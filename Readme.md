@@ -63,6 +63,7 @@ Run PHP from terminal
   Frameworks like Laravel are built on top of Core PHP
 
   Simple idea
+  
     core/ → your logic engine
 
     Laravel → UI + routing + structure
