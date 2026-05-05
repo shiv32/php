@@ -87,6 +87,16 @@ Run PHP from terminal
 
     $result = add(2, 3);
 
+    You can use Core PHP with frameworks like:
+
+      Laravel
+
+      Symfony
+      
+      CodeIgniter
+
+  All of them support external code / libraries
+
 * **Good for small projects**
 
   Quick scripts, tools, simple websites
