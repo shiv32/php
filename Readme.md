@@ -37,26 +37,34 @@ Run PHP from terminal
 **benefits of Core PHP (plain PHP without frameworks)**
 
 * **Easy to learn**
+
   Simple syntax, beginner-friendly
 
 * **Fast & lightweight**
+
   No extra framework overhead
 
 * **Full control**
+
   You write everything → better understanding
 
 * **Runs everywhere**
+
   Works on almost all servers (Linux, Windows)
 
 * **Strong database support**
+
   Easily connects to MySQL, PostgreSQL, etc.
 
 * **Widely used**
+
   Powers platforms like WordPress
+
   Frameworks like Laravel are built on top of Core PHP
 
   Simple idea
     core/ → your logic engine
+
     Laravel → UI + routing + structure
 
     project/
@@ -73,10 +81,13 @@ Run PHP from terminal
     └── shared/ (optional)
 
     In Laravel controller:
+
     require_once base_path('../core/math.php');
+
     $result = add(2, 3);
 
 * **Good for small projects**
+
   Quick scripts, tools, simple websites
 
 ## Simple idea:
