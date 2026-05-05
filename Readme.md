@@ -34,7 +34,7 @@ Run PHP from terminal
 
     php -r "echo 'Hello, Shiv!';"
 --------------------------------------------------------
-**benefits of Core PHP (plain PHP without frameworks)**
+**Benefits of Core PHP (plain PHP without frameworks)**
 
 * **Easy to learn**
 
@@ -63,7 +63,7 @@ Run PHP from terminal
   Frameworks like Laravel are built on top of Core PHP
 
   Simple idea
-  
+
     core/ → your logic engine
 
     Laravel → UI + routing + structure
